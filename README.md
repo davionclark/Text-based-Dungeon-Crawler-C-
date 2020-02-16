@@ -12,7 +12,13 @@ This is a text-based dungeon crawling game created in Visual Studio and written 
 
 ## Installation
 
-Simply download the .zip file and extract it. Once extraction is complete, simply open the .sln file in Visual Studio and click the green "play" arrow. 
+Simply download the .zip file and extract it. Once extraction is complete, open the .sln file in Visual Studio.
+
+![.sln](https://i.imgur.com/NEHXY5s.png)
+
+Once in Visual studio, click the green "play" arrow at the top of the screen. Feel free to edit the code and see how it affects the game!
+
+![Green arrow](https://i.imgur.com/bXbkeog.png)
 
 ## Support
 
