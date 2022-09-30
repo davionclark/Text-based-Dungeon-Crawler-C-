@@ -22,4 +22,4 @@ Once in Visual studio, click the green "play" arrow at the top of the screen. Fe
 
 ## Support
 
-If you need assistance, please contact me at davionclark@yahoo.com
+If you need assistance, please contact me at viiyenclark@gmail.com
